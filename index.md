@@ -11,3 +11,5 @@ This is a blockquote:
 > first line of blockquote
 > second line...
 
+<img src="https://christianbecker.name/images/christianbecker.png"/>
+
