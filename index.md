@@ -8,8 +8,8 @@ Hello, this is just a short test of git with github pages. A website should be c
 
 This is a blockquote: 
 
-> first line of blockquote
-> second line...
+> first line of blockquote  
+> second line...  
 
 <img src="https://christianbecker.name/images/christianbecker.png"/>
 
